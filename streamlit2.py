@@ -14,7 +14,7 @@ import altair as alt
 import numpy as np
 
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"C:\Users\Nupur\Downloads\constant-setup-383721-b45fde8fb18d.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"constant-setup-383721-b45fde8fb18d.json"
 # Initialize BigQuery client
 client = bigquery.Client()
 
