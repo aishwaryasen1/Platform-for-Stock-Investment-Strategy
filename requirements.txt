@@ -8,3 +8,4 @@ requests
 textblob
 altair
 numpy
+db_dtypes
