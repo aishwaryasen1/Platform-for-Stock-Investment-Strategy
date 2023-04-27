@@ -5,7 +5,6 @@ plotly
 wordcloud
 matplotlib
 requests
-textblob 
-os 
+textblob
 altair
 numpy
